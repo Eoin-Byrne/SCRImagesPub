@@ -1,4 +1,4 @@
-/* Rule Set autoAuction version 1.0 generated on Mon Nov 21 19:02:33 UTC 2022 */
+/* Rule Set autoAuction version 1.0 generated on Mon Nov 21 19:05:47 UTC 2022 */
 
 DS2_OPTIONS LOGICALEXPR = STANDARD;
 DS2_OPTIONS SCOND = WARNING;
